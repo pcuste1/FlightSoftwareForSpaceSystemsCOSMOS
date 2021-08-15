@@ -1,0 +1,39 @@
+2021/08/12 20:30:13.968  INFO: COSMOS Version: 4.4.1
+2021/08/12 20:30:13.968  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/tools/cmd_tlm_server/cmd_tlm_server.txt
+2021/08/12 20:30:13.969  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/targets/CFS/cmd_tlm_server.txt
+2021/08/12 20:30:13.970  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/targets/SYSTEM/cmd_tlm_server.txt
+2021/08/12 20:30:13.978  INFO: Marshal load success: /home/fsw/cfs_demo/outputs/tmp/marshal_4de0d71713635637d07c15ed6b1d7ad9.bin
+2021/08/12 20:30:14.140  INFO: Creating thread for router PREIDENTIFIED_ROUTER
+2021/08/12 20:30:14.140  INFO: Creating thread for router PREIDENTIFIED_CMD_ROUTER
+2021/08/12 20:30:14.140  INFO: Creating thread for interface CFS_INT
+2021/08/12 20:30:14.140  INFO: Starting connection maintenance for PREIDENTIFIED_CMD_ROUTER
+2021/08/12 20:30:14.141  INFO: Connecting to PREIDENTIFIED_CMD_ROUTER...
+2021/08/12 20:30:14.141  INFO: PREIDENTIFIED_CMD_ROUTER Connection Success
+2021/08/12 20:30:14.141  INFO: Creating thread for interface SYSTEM_INT
+2021/08/12 20:30:14.141  INFO: Starting packet reading for PREIDENTIFIED_ROUTER
+2021/08/12 20:30:14.141  INFO: Connecting to PREIDENTIFIED_ROUTER...
+2021/08/12 20:30:14.141  INFO: PREIDENTIFIED_ROUTER Connection Success
+2021/08/12 20:30:14.141  INFO: Starting packet reading for SYSTEM_INT
+2021/08/12 20:30:14.141  INFO: Connecting to SYSTEM_INT...
+2021/08/12 20:30:14.142  INFO: SYSTEM_INT Connection Success
+2021/08/12 20:30:14.142  INFO: Starting packet reading for CFS_INT
+2021/08/12 20:30:14.142  INFO: Connecting to CFS_INT...
+2021/08/12 20:30:14.142  INFO: CFS_INT Connection Success
+2021/08/12 20:33:39.694  INFO: Clean disconnect from SYSTEM_INT (returned nil)
+2021/08/12 20:33:39.694  INFO: Connection Lost for SYSTEM_INT
+2021/08/12 20:33:39.795  INFO: Killing thread for router PREIDENTIFIED_ROUTER
+2021/08/12 20:33:39.795  INFO: Clean disconnect from PREIDENTIFIED_ROUTER (returned nil)
+2021/08/12 20:33:39.795  INFO: Connection Lost for PREIDENTIFIED_ROUTER
+2021/08/12 20:33:39.899  INFO: Stopped packet reading for PREIDENTIFIED_ROUTER
+2021/08/12 20:33:39.902  INFO: Disconnected from router PREIDENTIFIED_ROUTER
+2021/08/12 20:33:39.902  INFO: Killing thread for router PREIDENTIFIED_CMD_ROUTER
+2021/08/12 20:33:39.903  INFO: Stopped packet reading for PREIDENTIFIED_CMD_ROUTER
+2021/08/12 20:33:39.914  INFO: Disconnected from router PREIDENTIFIED_CMD_ROUTER
+2021/08/12 20:33:39.927  INFO: Killing thread for interface CFS_INT
+2021/08/12 20:33:39.927  INFO: Clean disconnect from CFS_INT (returned nil)
+2021/08/12 20:33:39.927  INFO: Connection Lost for CFS_INT
+2021/08/12 20:33:39.927  INFO: Stopped packet reading for CFS_INT
+2021/08/12 20:33:39.937  INFO: Disconnected from interface CFS_INT
+2021/08/12 20:33:39.937  INFO: Killing thread for interface SYSTEM_INT
+2021/08/12 20:33:39.937  INFO: Stopped packet reading for SYSTEM_INT
+2021/08/12 20:33:39.953  INFO: Disconnected from interface SYSTEM_INT

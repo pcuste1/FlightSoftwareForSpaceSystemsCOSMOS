@@ -1,0 +1,85 @@
+2021/07/15 23:13:29.061  INFO: COSMOS Version: 4.4.1
+2021/07/15 23:13:29.062  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/tools/cmd_tlm_server/cmd_tlm_server.txt
+2021/07/15 23:13:29.062  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/targets/CFS/cmd_tlm_server.txt
+2021/07/15 23:13:29.062  INFO: Processing CmdTlmServer configuration in file: /home/fsw/cfs_demo/config/targets/SYSTEM/cmd_tlm_server.txt
+2021/07/15 23:13:29.067  INFO: Marshal load success: /home/fsw/cfs_demo/outputs/tmp/marshal_1b32e40c95999c39d47ad017be1455d2.bin
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_NOOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_A_ACTIVE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_A_DISCHARGE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_B_ACTIVE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_B_DISCHARGE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_OBS_START redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_OBS_STOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_POWER_SBC redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_HTR_OFF redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_HTR_ON redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_LOUVER_CLOSE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_LOUVER_OPEN redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_TLM_RESET_CNTS redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_LAB_SEND_HK redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_NOOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_RESET_STATUS redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_ADD_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_SEND_DATA_TYPES redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_REMOVE_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_REMOVE_ALL_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_OUTPUT_ENABLE redefined.
+2021/07/15 23:13:29.067  WARN: Telemetry Packet CFS CFE_WHE_HKMSG redefined.
+2021/07/15 23:13:29.067  WARN: Telemetry Packet CFS TO_LAB_HKTLM redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_NOOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_A_ACTIVE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_A_DISCHARGE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_B_ACTIVE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_CAP_B_DISCHARGE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_OBS_START redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_OBS_STOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_POWER_SBC redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_HTR_OFF redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_HTR_ON redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_LOUVER_CLOSE redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_LOUVER_OPEN redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS CFS_WHE_TLM_RESET_CNTS redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_LAB_SEND_HK redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_NOOP redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_RESET_STATUS redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_ADD_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_SEND_DATA_TYPES redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_REMOVE_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_REMOVE_ALL_PKT redefined.
+2021/07/15 23:13:29.067  WARN: Command Packet CFS TO_OUTPUT_ENABLE redefined.
+2021/07/15 23:13:29.067  WARN: Telemetry Packet CFS CFE_WHE_HKMSG redefined.
+2021/07/15 23:13:29.067  WARN: Telemetry Packet CFS TO_LAB_HKTLM redefined.
+2021/07/15 23:13:29.173  INFO: Creating thread for router PREIDENTIFIED_ROUTER
+2021/07/15 23:13:29.173  INFO: Creating thread for router PREIDENTIFIED_CMD_ROUTER
+2021/07/15 23:13:29.173  INFO: Creating thread for interface CFS_INT
+2021/07/15 23:13:29.173  INFO: Creating thread for interface SYSTEM_INT
+2021/07/15 23:13:29.175  INFO: Starting connection maintenance for PREIDENTIFIED_CMD_ROUTER
+2021/07/15 23:13:29.175  INFO: Connecting to PREIDENTIFIED_CMD_ROUTER...
+2021/07/15 23:13:29.175  INFO: PREIDENTIFIED_CMD_ROUTER Connection Success
+2021/07/15 23:13:29.175  INFO: Starting packet reading for SYSTEM_INT
+2021/07/15 23:13:29.175  INFO: Connecting to SYSTEM_INT...
+2021/07/15 23:13:29.175  INFO: SYSTEM_INT Connection Success
+2021/07/15 23:13:29.176  INFO: Starting packet reading for PREIDENTIFIED_ROUTER
+2021/07/15 23:13:29.176  INFO: Connecting to PREIDENTIFIED_ROUTER...
+2021/07/15 23:13:29.179  INFO: PREIDENTIFIED_ROUTER Connection Success
+2021/07/15 23:13:29.179  INFO: Starting packet reading for CFS_INT
+2021/07/15 23:13:29.179  INFO: Connecting to CFS_INT...
+2021/07/15 23:13:29.180  INFO: CFS_INT Connection Success
+2021/07/15 23:13:37.683  INFO: Clean disconnect from SYSTEM_INT (returned nil)
+2021/07/15 23:13:37.683  INFO: Connection Lost for SYSTEM_INT
+2021/07/15 23:13:37.784  INFO: Killing thread for router PREIDENTIFIED_ROUTER
+2021/07/15 23:13:37.784  INFO: Clean disconnect from PREIDENTIFIED_ROUTER (returned nil)
+2021/07/15 23:13:37.784  INFO: Connection Lost for PREIDENTIFIED_ROUTER
+2021/07/15 23:13:37.871  INFO: Stopped packet reading for PREIDENTIFIED_ROUTER
+2021/07/15 23:13:37.873  INFO: Disconnected from router PREIDENTIFIED_ROUTER
+2021/07/15 23:13:37.873  INFO: Killing thread for router PREIDENTIFIED_CMD_ROUTER
+2021/07/15 23:13:37.873  INFO: Stopped packet reading for PREIDENTIFIED_CMD_ROUTER
+2021/07/15 23:13:37.970  INFO: Disconnected from router PREIDENTIFIED_CMD_ROUTER
+2021/07/15 23:13:37.981  INFO: Killing thread for interface CFS_INT
+2021/07/15 23:13:37.981  INFO: Clean disconnect from CFS_INT (returned nil)
+2021/07/15 23:13:37.981  INFO: Connection Lost for CFS_INT
+2021/07/15 23:13:37.981  INFO: Stopped packet reading for CFS_INT
+2021/07/15 23:13:37.991  INFO: Disconnected from interface CFS_INT
+2021/07/15 23:13:37.991  INFO: Killing thread for interface SYSTEM_INT
+2021/07/15 23:13:37.991  INFO: Stopped packet reading for SYSTEM_INT
+2021/07/15 23:13:38.003  INFO: Disconnected from interface SYSTEM_INT
