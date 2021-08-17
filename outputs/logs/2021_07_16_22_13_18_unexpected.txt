@@ -1,3 +1,0 @@
-Unexpected Output:
-
-Gtk-Message: 22:12:08.788: Failed to load module "canberra-gtk-module"
